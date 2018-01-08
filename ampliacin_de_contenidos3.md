@@ -5,23 +5,23 @@
 
 ## Pictoagenda
 
-**[Pictoagenda](http://www.pictoagenda.com/)** es un herramienta online que forma parte de la suite de **[Pictoaplicaciones](http://www.pictoaplicaciones.com/)**, y cuyo objetivo es crear una agenda para establecer las actividades y rutinas de cada día a través de imágenes (pictogramas de **[ARASAAC](http://arasaac.org/)**) y acompañadas de gráficos que marcan el proceso de organización y cumplimiento en el día de dichas actividades y rutinas.
+[Pictoagenda](http://www.pictoagenda.com/) es un herramienta online que forma parte de la suite de [Pictoaplicaciones](http://www.pictoaplicaciones.com/), y cuyo objetivo es crear una agenda para establecer las actividades y rutinas de cada día a través de imágenes (pictogramas de [ARASAAC](http://arasaac.org/)) y acompañadas de gráficos que marcan el proceso de organización y cumplimiento en el día de dichas actividades y rutinas.
 ![](http://www.catedu.es/arasaac/zona_descargas/software/25/screenshot/pictoagenda_0.jpeg)
-<td style="text-align: center;"><pre>Fig. 4.18 Logo de PictoAgenda - [http://www.pictoaplicaciones.com/](http://www.pictoaplicaciones.com/) </pre></td>
+Fig. 4.18 Logo de PictoAgenda - [http://www.pictoaplicaciones.com/](http://www.pictoaplicaciones.com/) 
 
-La comunicación visual, a través de la agenda, ayuda a procesar y organizar mentalmente todas las actividades diarias en el  espacio y en el tiempo, haciendo con ello que se **anticipen los acontecimientos y evitando ansiedad o conductas inadecuadas** por la incomprensión de dichas actividades.
+La comunicación visual, a través de la agenda, ayuda a procesar y organizar mentalmente todas las actividades diarias en el  espacio y en el tiempo, haciendo con ello que se anticipen los acontecimientos y evitando ansiedad o conductas inadecuadas por la incomprensión de dichas actividades.
 
 Para ampliar información de cómo utilizar la herramienta se puede consultar la entrada del Blog de ARASAAC ([http://blog.arasaac.org/2013/06/pictoagenda-nueva-y-fantastica.html](http://blog.arasaac.org/2013/06/pictoagenda-nueva-y-fantastica.html)) que se creó con motivo de su lanzamiento.
 
 ## PictogramAgenda
 
-PictogramAgenda es una aplicación informática que facilita la generación y uso de agendas visuales en terminales (teléfonos móviles o tablets) basados en el sistema operativo **Android**.
+PictogramAgenda es una aplicación informática que facilita la generación y uso de agendas visuales en terminales (teléfonos móviles o tablets) basados en el sistema operativo Android.
 ![](img/Captura_de_pantalla_de_2017-03-15_12-15-17.png)
-<td style="text-align: center;"><pre>Fig. 4.20 Logotipo de PictogramAgenda - http://www.lorenzomoreno.com</pre></td>
+Fig. 4.20 Logotipo de PictogramAgenda - http://www.lorenzomoreno.com
 
 PictogramAgenda permite configurar y ordenar una secuencia de imágenes (máximo 12) que formarán la agenda visual.
 ![](img/Captura_de_pantalla_de_2017-03-15_12-15-53.png)
-<td style="text-align: center;"><pre>Fig. 4.21 Diferentes capturas de pantalla del programa PictogramAgenda</pre></td>
+Fig. 4.21 Diferentes capturas de pantalla del programa PictogramAgenda
 
 ## In-TIC Agenda
 
