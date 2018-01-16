@@ -15,7 +15,7 @@ Para poder acceder a las locuciones en cualquiera de los otros 11 idiomas debemo
 
 Si nos aparecen los iconos de la imagen inferior junto a la traducción, significa que hay disponible locución de la misma.
 
-![](Selección_361.png)
+![](img/Selección_361.png)
 
 En aquellos casos en los que no se disponga de locución en mp3, se dispone en castellano de la posibilidad de acceder a una locución sintetizada que podremos **escuchar online** o **descargar en formato wav** (formato de archivo de audio).
 
