@@ -4,6 +4,7 @@
 ## Introducción del módulo
 
 Mira unos instantes esta lámina y analiza su contenido.
+
 ![Fig 1.1 "Un día en nuestra vida" - Autores: José Manuel Marcos y David Romero Licencia: CC BY-NC-SA](img/un_dia_nuestra_vida.png)
 
 Hablar con los amigos de la cena de ayer, contar una historia o un chiste divertido, responder a preguntas sobre cómo fue el partido, ver nuestro concurso favorito o el telediario en la tele, reírrnos por alguna anécdota que nos ha acontecido recientemente, saludar en el ascensor o en la calle a un vecino, chatear con un familiar que trabaja en otro país, hacer la compra en el supermercado, etc., etc., etc. Podríamos seguir añadiendo multitud de acciones que tienen un nexo común: la comunicación.
@@ -28,7 +29,8 @@ No debemos olvidarnos de que *"la comunicación es un derecho para todas las per
 
 ([http://www.un.org/esa/socdev/enable/documents/tccconvs.pdf](http://www.un.org/esa/socdev/enable/documents/tccconvs.pdf))
 
-![Fig 1.2 Captura del art. 7 de la Convención de Derechos de Personas con Discapacidad traducida a pictogramas](img/convencion_art7.png)
+
+![1.2 Captura del art. 7 de la Convención de Derechos de Personas con Discapacidad traducida a pictogramas](img/convencion_art7.png)
 
 Autor: [CEAPAT](http://www.ceapat.es/ceapat_01/centro_documental/tecnologiasinformacion/sistemas_comunicacion_aumentativa/IM_035263)
 
@@ -38,7 +40,7 @@ Y para finalizar os querríamos dejar un vídeo en el que puede verse un ejemplo
 
 Video realizado por la Asociación Probosco (miembro de FEAPS Canarias), que ilustran una buena práctica titulada:"Buscando la accesibilidad total en la comunicación. Un compromiso de todos"
 
-## ParaSaberMas
+## Para Saber Más
 
 Para más información sobre la convención:
 

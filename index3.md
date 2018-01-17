@@ -28,31 +28,57 @@ Veamos algunos ejemplos en la siguiente galería de imágenes:
 
 ## Galería de imágenes
 
+
 ![](img/1239850_603576546347911_954090168_nThumbnail.png)
+
 ![](img/994302_603569349681964_843045289_nThumbnail.png)
+
 ![](img/2012-05-12_09.06.23Thumbnail.png)
+
 ![](img/2012-05-12_16.23.42Thumbnail.png)
+
 ![](img/521579_3490528835094_1627706885_2821766_527396496_n_1Thumbnail.png)
+
 ![](img/538991_384776274950851_308705340_nThumbnail.png)
+
 ![](img/centro_salud_cambados_7Thumbnail.png)
+
 ![](img/Happy_Meal_2Thumbnail.png)
+
 ![](img/IMFAR2013_ARASAAC_1Thumbnail.png)
+
 ![](img/IMFAR2013_ARASAAC_10Thumbnail.png)
+
 ![](img/IMFAR2013_ARASAAC_12Thumbnail.png)
+
 ![](img/IMFAR2013_ARASAAC_4Thumbnail.png)
+
 ![](img/IMG_0959_1Thumbnail.png)
+
 ![](img/IMG-20120508-WA0000Thumbnail.png)
+
 ![](img/malaga_2_-_copiaThumbnail.png)
+
 ![](img/malaga_3_-_copiaThumbnail.png)
+
 ![](img/malaga_6_-_copiaThumbnail.png)
+
 ![](img/malaga_7_-_copiaThumbnail.png)
+
 ![](img/20130415_160334Thumbnail.png)
+
 ![](img/20130415_160352Thumbnail.png)
+
 ![](img/20130415_160426Thumbnail.png)
+
 ![](img/20130415_160446Thumbnail.png)
+
 ![](img/20130415_160844Thumbnail.png)
+
 ![](img/CEIP_LUIS_VIVES_ARASAACThumbnail.png)
+
 ![](img/Senalizacion_casa_1Thumbnail.png)
+
 ![](img/6ed6087ece183512765292ee2fabae3dThumbnail.png)
 
 ## Importante
@@ -79,9 +105,14 @@ A continuación, podemos ver algunos ejemplos de anticipación de las actividade
 
 ## Galería de imágenes
 
+
 ![](img/20130416_121714Thumbnail.png)
+
 ![](img/Senalizacion_casaThumbnail.png)
+
 ![](img/Senalizacion_casa_3Thumbnail.png)
+
 ![](img/Senalizacion_casa_2Thumbnail.png)
+
 ![](img/Senalizacion_4Thumbnail.png)
 

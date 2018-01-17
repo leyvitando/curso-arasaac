@@ -1,16 +1,21 @@
 
 # 2.4 Categorías - Catálogos
-![](https://lh5.googleusercontent.com/-iXjyomsEonM/UiXFgCNwGZI/AAAAAAAABJE/i8xtkZK6A4o/w319-h553-no/busqueda_10.png)
 
-Para buscar por una determinado tema haremos clic sobre el icono"+" a la izquierda de la categoría.
+Dentro de cada uno de los [catálogos](http://arasaac.org/catalogos.php) de recursos (pictogramas color, blanco y negro, fotografías, vídeos en LSE,...) hay disponible en la parte izquierda un árbol de categorías (y subcategorías) que permite realizar búsquedas transversales por un determinado tema dentro del catálogo que estemos consultando.
+
+![](img/busqueda_10.png)
+
+Para buscar por una determinado tema haremos clic sobre el icono "+" a la izquierda de la categoría.
+
+![](img/busqueda_11.png)
 
 Una vez pulsado en + se desplegará el contenido de la categoría mostrándose los subtemas que contiene
 
+![](img/busqueda_12.png)
+
 En este caso la categoría Aragón solo dispone de una subcategoría.
-![](https://lh3.googleusercontent.com/-IiM5EBTRRxw/UiXGDZR_ahI/AAAAAAAABJg/uVNKQjym3YQ/w1044-h520-no/busqueda_13.png)
 
-
-Fig. 3.32 Resultados de la búsqueda por la subcategoría Aragón
+![3.32 Resultados de la búsqueda por la subcategoría Aragón](img/busqueda_13.png)
 
 ## Importante
 

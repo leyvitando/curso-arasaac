@@ -1,7 +1,7 @@
 
 # Ampliación de contenidos
 
-## ParaSaberMas
+## Para Saber Más
 
 ## Bibliografia
 

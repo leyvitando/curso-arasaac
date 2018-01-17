@@ -5,7 +5,8 @@
 
 Los **sistemas de comunicación aumentativa y alternativa**, basados en **pictogramas**,se caracterizan por ser universales, visuales e inmediatos.
 
-![Fig 1.14 Características de los sistemas pictográficos Autores: José Manuel Marcos y David Romero Licencia: CC BY-NC-SA](https://lh4.googleusercontent.com/-1ofr3iVAb4k/UegzbWM0gxI/AAAAAAAAAs0/x3HoOirvBZ4/w652-h329-no/saac_pictografico.JPG)
+
+![1.14 Características de los sistemas pictográficos Autores: José Manuel Marcos y David Romero Licencia: CC BY-NC-SA](img/saac_pictografico.JPG)
 
 Son **universales** en tanto que pictogramas como el de "manzana", "oso de peluche" o "casa" pueden ser entendidos por la mayor parte de las personas, independientemente de su idioma o cultura.
 
@@ -17,7 +18,8 @@ Finalmente, son **inmediatos**, puesto que la comunicación se establece entre e
 
 Desde el punto de vista del **diseño gráfico y la accesibilidad**, ARASAAC es un Sistema de símbolos pictográficos para la comunicación aumentativa que se caracteriza por la comprensión, la coherencia, la flexibilidad, la síntesis y la agrupación.
 
-![Fig 1.15 Características de un sistema pictográfico desde el diseño gráfico Autores: José Manuel Marcos y David Romero Licencia: CC BY-NC-SA](https://lh5.googleusercontent.com/-o_BC01UL1PQ/Ueg15CX6QFI/AAAAAAAAAtQ/4r1LOjuMTuA/w627-h383-no/dise%25C3%25B1o_grafico.JPG)
+
+![1.15 Características de un sistema pictográfico desde el diseño gráfico Autores: José Manuel Marcos y David Romero Licencia: CC BY-NC-SA](img/dise%25C3%25B1o_grafico.JPG)
 
 La **comprensión** viene dada por la **legibilidad**. Cada pictograma se explica por sí mismo y no es estrictamente necesario que vaya acompañado de textos, ni que deba ser interpretado para su comprensión.
 

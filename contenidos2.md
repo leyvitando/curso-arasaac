@@ -5,19 +5,15 @@
 
 Este módulo se divide en las siguientes unidades:
 
-<li>
-<h3>U1:Importancia del Juego adaptado</h3>
-</li>
-<li>
-<h3>U2:Sistemas de búsqueda de recursos gráficos en el portal ARASAAC</h3>
-<ul>
+### U1:Importancia del Juego adaptado
+
+### U2:Sistemas de búsqueda de recursos gráficos en el portal ARASAAC
+
 - 2.1 Palabras sugeridas - Inicio
 - 2.2 Cadena texto - Inicio
 - 2.3Cadena texto - Catálogos
 - 2.4 Categorías - Catálogos
 - 2.5 Combinada - Catálogos
-
-### U2:Sistemas de búsqueda de recursos gráficos en el portal ARASAAC
 
 ### U3: La carpeta "Mi selección"
 

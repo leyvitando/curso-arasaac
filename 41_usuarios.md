@@ -15,5 +15,6 @@ Si tomamos como referente lo explicado anteriormente en la Unidad 3 (Conocimient
 
 - **Personas con enfermedades neurológicas degenerativas**. En este grupo encontramos a un cada mayor número de personas, en su mayor parte mayores, que sufren de algún tipo de [demencia](http://es.wikipedia.org/wiki/Demencia) o enfermedad degenerativa como el [Alzheimer](http://es.wikipedia.org/wiki/Alzheimer). A consecuencia de ésta, pierden el lenguaje oral y requieren un sistema alternativo de comunicación.
 
-![Fig. 1.13 Usuarios utilizando SAACs en diferentes actividades. Fotografías: Sergio Palao.](img/Usuarios.jpg)
+
+![1.13 Usuarios utilizando SAACs en diferentes actividades. Fotografías: Sergio Palao.](img/Usuarios.jpg)
 

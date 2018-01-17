@@ -1,7 +1,8 @@
 
 # U5. PictoSelector
+
 ![](http://www.pictoselector.eu/images/stories/basisbestanden/picto-selector-logo-800.png)
-Fig. 4.17 Logotipo de PictoSelector - Propiedad de Martijn van der Kooij
+4.17 Logotipo de PictoSelector - Propiedad de Martijn van der Kooij
 
 [Picto Selector](http://www.pictoselector.eu) es una aplicación para Windows diseñada para facilitar la selección e impresión de tableros de comunicación con pictogramas, agendas visuales, horarios, etc.
 
@@ -24,7 +25,7 @@ Enlace alterativo(en caso de fallar el anterior)
 
 [http://aularagon.catedu.es/materialesaularagon2013/arasaac/Docs/Tutorial_PictoSelector.pdf](http://aularagon.catedu.es/materialesaularagon2013/arasaac/Docs/Tutorial_PictoSelector.pdf)
 
-## ParaSaberMas
+## Para Saber Más
 
 En la web de [Picto Selector](http://www.pictoselector.eu/index.php?option=com_content&amp;view=article&amp;id=118&amp;Itemid=251&amp;lang=es) se encuentran disponibles [videotutoriales](http://www.pictoselector.eu/index.php?option=com_content&amp;view=article&amp;id=118&amp;Itemid=251&amp;lang=es)(*) que explican el funcionamiento de diferentes aspectos del programa no contemplados en el manual y un vídeo que nos permite [conocer a Martin](http://www.youtube.com/watch?v=71BJwa7M_Ns).
 

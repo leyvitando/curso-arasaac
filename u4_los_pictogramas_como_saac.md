@@ -16,35 +16,44 @@ Por ejemplo, en la siguiente imagen aparece un coche rojo. El pictograma represe
 * Coches con diferentes funciones: familiar, policía,
 * Coches con connotaciones personales: p.e el coche de mis padres
 
-![Fig. 1.7 Coche](img/coche.png)
 
-![Fig. 1.8 Zapatos](img/zapatos.png)
+![1.7 Coche](img/coche.png)
+
+
+![1.8 Zapatos](img/zapatos.png)
 
 En otras ocasiones, la imagen del pictograma va más allá de cómo ésta aparece, puesto que el "concepto" o "elemento" al que se refiere no está directamente representado con el dibujo, sino que es arbitrario y aceptado por convención.
 
-![Fig. 1.9 Mucho](img/mucho.png)
 
-![Fig. 1.10 Rápido](img/rapido.png)
+![1.9 Mucho](img/mucho.png)
 
-![Fig. 1.11 Con](img/con_1.png)
+
+![1.10 Rápido](img/rapido.png)
+
+
+![1.11 Con](img/con_1.png)
 
 Además, existen varios tipos de pictogramas:
 
 De color, como los anteriormente mostrados
 
+
 ![](img/comer_1.png)
 
 Sin color o transparentes, en los que solo aparece la silueta del pictograma
+
 
 ![](img/comer_2.png)
 
 Esquemáticos, representan generalmente acciones y cuyo diseño está basado en siluetas
 
+
 ![](img/comer_3.png)
 
 Contraste blanco sobre negro. Con imágenes lineales y dirigido a personas con baja visión 
 
-![Fig. 1.12 Pictogramas de ARASAAC y Sclera](http://www.sclera.be/resources/pictos/eten.png)
+
+![1.12 Pictogramas de ARASAAC y Sclera](http://www.sclera.be/resources/pictos/eten.png)
 
 (Fuente del texto: ["Mi comunicador de Pictogramas"](http://www.ceapat.es/ceapat_01/centro_documental/tecnologiasinformacion/sistemas_comunicacion_aumentativa/IM_055625), Clara Delgado Santos, CEAPAT)
 

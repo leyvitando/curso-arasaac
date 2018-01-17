@@ -16,7 +16,9 @@ En esta presentación que podéis ver a continuación se detallan una serie de e
 Para conocer detalladamente muchos de estos ejemplos de uso os recomendamos visitar el apartado ["Ejemplos de Uso"](http://arasaac.org/ejemplos_uso.php) del Portal ARASAAC.
 
 En él encontrareis los diferentes ejemplos clasificados por distintas áreas:
-![Fig. 1.16 Captura de Pantalla del Menú del Catálogo de Ejemplos de Uso](https://lh5.googleusercontent.com/-IyyfC7o3cHs/UlLz7z9OY7I/AAAAAAAABT4/DVgcw40aGt8/w868-h307-no/Ejemplos+_uso_1.png)
+
+
+![1.16 Captura de Pantalla del Menú del Catálogo de Ejemplos de Uso](img/Ejemplos+_uso_1.png)
 
 Cada ejemplo de uso dispone de una ficha con una descripción detalla, fotografías o capturas que nos permiten tener una vista previa del ejemplo e información adicional (URL's, autores,....).
 

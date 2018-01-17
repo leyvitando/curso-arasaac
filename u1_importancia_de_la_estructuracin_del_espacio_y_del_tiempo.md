@@ -18,8 +18,9 @@ Ordenación del espacio:
 - Pictogramas: y claves de señalización para diferentes espacios. (Aulas, comedor, talleres, psicomotricidad, logopedia, orientación etc.).
 - Símbolos o cárteles para cada dependencia, así como las fotos de las personas que están en cada una de ellas.
 - Líneas de colores o cintas de belcro: para indicar recorridos, para acceder a ciertas dependencias, para marcar límites o delimitar espacios, ayudas que progresivamente iremos desvaneciendo, una vez las respeten y entiendan.
+
 ![](img/ESPACIO.jpg)
-Fig. 4.1 [Adaptación del entorno hospitalario del Hospital Puerta de Hierro para pacientes con TEA](http://www.madrid.org/cs/Satellite?cid=1354213907310&amp;language=es&amp;pagename=HospitalPuertaHierroMaja%2FPage%2FHPHM_contenidoFinal)
+4.1 [Adaptación del entorno hospitalario del Hospital Puerta de Hierro para pacientes con TEA](http://www.madrid.org/cs/Satellite?cid=1354213907310&amp;language=es&amp;pagename=HospitalPuertaHierroMaja%2FPage%2FHPHM_contenidoFinal)
 
 
 
@@ -28,8 +29,9 @@ Ordenación del tiempo:
 - Agenda:secuencia de las acciones principales de la jornada, a través de símbolos y claves visuales. Son como relojes adaptados que permiten conocer y predecir los acontecimientos que tendrán lugar durante la jornada escolar.
 - Agendas de aula:- Fotografías, fotografías y pictogramas, y pictogramas.
 - Agendas individuales;adaptadas a las posibilidades de cada niño, desde niños muy afectados a niños de alto nivel o funcionamiento.
+
 ![](img/AGENDA.jpg)
-Fig. 4.2 Ejemplo de [Agenda escolar ](http://arasaac.org/materiales.php?id_material=739)realizada por el CPEE Alborada
+4.2 Ejemplo de [Agenda escolar ](http://arasaac.org/materiales.php?id_material=739)realizada por el CPEE Alborada
 
 
 

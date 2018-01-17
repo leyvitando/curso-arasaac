@@ -3,7 +3,8 @@
 
 El artículo 7 de la [Convención de Derechos de las Personas con Discapacidad](http://www.ceapat.es/ceapat_01/centro_documental/tecnologiasinformacion/sistemas_comunicacion_aumentativa/IM_035263) establece que, con el fin de garantizar el derecho a la comunicación, se ofrecerá la asistencia necesaria y apropiada a cada persona y sus necesidades.
 
-![Fig. 1.5 Captura de la página 56 de la Convención adaptada a pictogramas -Autores: José Manuel Marcos y David Romero Licencia: CC BY-NC-SA](https://lh6.googleusercontent.com/-gdBOfL2CH-Q/Ueg3WTwg3uI/AAAAAAAAAts/bHLWzlfhkwI/w629-h413-no/comunicacion_derecho.JPG)
+
+![1.5 Captura de la página 56 de la Convención adaptada a pictogramas -Autores: José Manuel Marcos y David Romero Licencia: CC BY-NC-SA](img/comunicacion_derecho.JPG)
 
 Dentro de las medidas que se aplican para superar las barreras comunicativas y garantizar el derecho a la comunicación, existen los **Sistemas de Comunicación Aumentativa o Alternativa (SAAC)**.
 
@@ -17,7 +18,8 @@ Dentro de las medidas que se aplican para superar las barreras comunicativas y g
 
 Autora: Carmen Basil Fuente: [ARASAAC](http://arasaac.org/aac.php)
 
-![Fig. 1.6 Requerimientos de los SAACs más comunes -Autores: José Manuel Marcos y David Romero Licencia: CC BY-NC-SA](https://lh6.googleusercontent.com/-0bsnrGwLGCI/UegzbouAS0I/AAAAAAAAAs4/Dr78GhSDe74/w649-h287-no/saacs.JPG)
+
+![1.6 Requerimientos de los SAACs más comunes -Autores: José Manuel Marcos y David Romero Licencia: CC BY-NC-SA](img/saacs.JPG)
 
 > La Comunicación Aumentativa y Alternativa incluye diversos **sistemas de símbolos**, tanto gráficos (fotografías, dibujos, pictogramas, palabras o letras) como gestuales (mímica, gestos o signos manuales) y, en el caso de los primeros, requiere también el uso de **productos de apoyo**. Los diversos sistemas de símbolos se adaptan a las necesidades de personas con edades y habilidades motrices, cognitivas y lingüísticas muy dispares.
 
@@ -30,6 +32,7 @@ Autora: Carmen Basil. Fuente: [ARASAAC](http://arasaac.org/aac.php)
 Teniendo presentes los diferentes SAAC existentes, debemos optar por aquel más adecuado a las características individuales de cada persona, teniendo en cuenta criterios como la capacidad cognitiva, motriz y visual, así como el nivel de conocimiento del idioma o el nivel de comprensión del usuario final.
 
 > Tanto para los sistemas de símbolos gestuales como para los gráficos encontramos una gradación desde sistemas muy sencillos, que se adaptan a personas con déficits cognitivos y lingüísticos de diversa consideración, hasta sistemas complejos que permiten niveles avanzados de lenguaje signado (basado en signos manuales) o asistido (basado en signos gráficos).
+
 
 ![](http://arasaac.org/images/signar.png)
 
