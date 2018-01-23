@@ -5,12 +5,10 @@
 
 Los objetivos que se pretenden alcanzar en este módulo son:
 
-- Elaboración de materialescon lasherramientas onlinedisponibles en el portal:
+- **Elaboración de materiales** con las **herramientas online** disponibles en el portal:
+    - Creador de Símbolos,
+    - Generador de Horarios,
+    - Generador de Calendarios,
 
-<ul>
-- Creador de Símbolos,
-- Generador de Horarios,
-- Generador de Calendarios,
-
-- Conocimiento y manejo práctico dePicto Selectorunaaplicación para la creación de tableros y rutinas.
+- Conocimiento y manejo práctico de **Picto Selector**, una aplicación para la creación de tableros y rutinas.
 

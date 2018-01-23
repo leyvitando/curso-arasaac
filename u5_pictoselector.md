@@ -1,12 +1,12 @@
 
 # U5. PictoSelector
 
-![](http://www.pictoselector.eu/images/stories/basisbestanden/picto-selector-logo-800.png)
-4.17 Logotipo de PictoSelector - Propiedad de Martijn van der Kooij
+![4.17 Logotipo de PictoSelector - Propiedad de Martijn van der Kooij](img/logo-picto-selector_1170.png)
 
-[Picto Selector](http://www.pictoselector.eu) es una aplicación para Windows diseñada para facilitar la selección e impresión de tableros de comunicación con pictogramas, agendas visuales, horarios, etc.
 
-Es diseñada y desarrollada por[Martijn van der Kooij](http://www.linkedin.com/in/mcvanderkooij), desarrollador de software de Bodegraven y que vive en Stadskanaal. &Eacute;l como padre de un niño TEA tuvo la necesidad de crear Picto Selector para ayudar a su hijo a comunicarse y estructurar el tiempo.
+[**Picto Selector**](http://www.pictoselector.eu) es una aplicación para Windows diseñada para facilitar la selección e impresión de tableros de comunicación con pictogramas, agendas visuales, horarios, etc.
+
+Es diseñada y desarrollada por [Martijn van der Kooij](http://www.linkedin.com/in/mcvanderkooij), desarrollador de software de Bodegraven y que vive en Stadskanaal. &Eacute;l como padre de un niño TEA tuvo la necesidad de crear Picto Selector para ayudar a su hijo a comunicarse y estructurar el tiempo.
 
 Desde un primer momento, ARASAAC colabora con Martin en la traducción de la aplicación a Castellano y en la inclusión de los pictogramas de color y blanco y negro de ARASAAC como catálogos de la misma.
 

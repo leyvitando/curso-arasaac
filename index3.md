@@ -1,7 +1,7 @@
 
 # M4: Nos organizamos en el tiempo y señalizamos nuestro entorno
 
-### NOS ORIENTAMOS EN EL ESPACIO
+### Nos orientamos en el espacio
 
 Una de las experiencias más estresantes que acontece cuando nos encontramos en un entorno que no es habitual para nosotros es la sensación de inseguridad que nos invade al tenernos que desplazar de un lugar a otro, incluso acompañados del plano en la mano. Normalmente, leeremos los nombres de las calles en el plano, veremos si coinciden con los postes de señalización vertical,  nos fijaremos en algún lugar de referencia y empezaremos a caminar hacia allí. Como último recurso, siempre podemos preguntars a los viandantes en el caso de que nos perdamos.
 
@@ -12,13 +12,14 @@ El desconcierto inicial ante tanta información da paso a la búsqueda ansiosa d
 Este vídeo es un ejemplo de cómo"viven" es situación los pictogramas que habitualmente nos sirven de guía.
 
 {% youtube %}https//www.youtube.com/watch?v=u9wBHSxQL-0{% endyoutube %}
+
 Para todos nosotros estos pictogramas nos resultan familiares porque, desde muy pequeños, los hemos visto en muchos lugares por los que hemos transitado: estaciones, hospitales, centros comerciales,... 
 
 Tienen un carácter internacional y están estandarizados, siguiendo normas ISO (como por ejemplo la ISO 9186-1. referente a la comprensión de los pictogramas) o AENOR. Algunos ejemplos de estos sistemas de pictogramas internacionales son el [AIGA](http://es.wikipedia.org/wiki/Pictogramas_del_Departamento_de_Transporte_de_los_Estados_Unidos), [Isotype](http://en.wikipedia.org/wiki/Isotype_(picture_language)) o [ERCO](http://www.erco.com/service/press-release/company-3/pictograms-quickly-comprehended_2403/es/).
 
 Pero hay algunas personas para las que estos sistemas pictográficos de señalización no son comprensibles dadas sus características de diseño y porque no abarcan todos los entornos donde se desenvuelven, sino sólo algunos espacios algunos públicos. 
 
-Por esta razón, actualmente existe una corriente que aboga por una señalización complementaria a la tradicional que facilite la accesibilidad cognitiva en todos los espacios privados y públicos en los que desenvuelven las personas para las que la comunicación se convierte en una barrera inaccesible.. 
+Por esta razón, actualmente existe una corriente que aboga por una señalización complementaria a la tradicional que facilite la **accesibilidad cognitiva** en todos los espacios privados y públicos en los que desenvuelven las personas para las que la comunicación se convierte en una barrera inaccesible.. 
 
 En esta línea, distintas instituciones, fundaciones o ayuntamientos como los de Málaga, Zaragoza, Comarcas de Cambados, etc, están realizando un gran esfuerzo en hacer accesibles estos espacios, utilizando los pictogramas de ARASAAC. 
 
@@ -89,7 +90,7 @@ En el catálogo de [Ejemplos de Uso de ARASAAC](http://arasaac.org/ejemplos_uso.
 
 
 
-### NOS ORGANIZAMOS EL TIEMPO
+### Nos organizamos en el tiempo
 
 Nuestro ritmo de vida actual nos obliga a utilizar gran cantidad de apoyos visuales que nos ayudan a organizar nuestro tiempo de forma más precisa y eficaz. Agendas en papel o electrónicas, post its en la nevera o en la pantalla del ordenador, calendarios on line y un montón de recursos son muy familiares y casi imprescindibles en nuestra vida cotidiana.
 
