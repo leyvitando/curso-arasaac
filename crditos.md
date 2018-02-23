@@ -9,14 +9,8 @@ Este módulo ha sido elaborado por:
 - David Romero Corral
 
 
-
-
-
-&copy; Gobierno de Aragón
-
 Materiales cofinanciados por Fondo Social Europeo
 
 ![](img/FSE_grande_fondo_blanco.jpg)
 
-![](img/Educacion_color.gif)
-
+{% include "git+https://github.com/catedu/faq-aularagon.git/imagenes_creditos.md" %}
