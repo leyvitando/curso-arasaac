@@ -7,7 +7,6 @@ Las **nuevas tecnologías de la información y la comunicación** están present
 
 No vamos a entrar en los aspectos positivos o negativos que conllevan el uso de estas tecnologías, porque no es el motivo de reflexión de esta introducción, pero es evidente que la aparición de **ordenadores, tabletas, teléfonos inteligentes, etc.**, han supuesto un fuerte **impacto en nuestra sociedad** y la evolución tecnológica de todos estos dispositivos no deja de sorprendernos y abrumarnos. Resulta casi imposible estar al día de todo lo que acontece a su alrededor.
 
-
 ![2.1. "Nuevas Tecnologías aplicadas a la comunicación aumentativa y alternativa" Autores: José Manuel Marcos y David Romero Licencia: CC BY-NC-SA](img/TECNO.jpg)
 
 Sin duda, uno de los aspectos más positivos de esta revolución tecnológica ha sido su **plena integración en el ámbito de la diversidad funcional** para conseguir una mayor autonomía de las personas que presentan algún tipo de dificultad a nivel visual, auditivo, motriz o cognitivo. Teclados que permiten navegar por Internet a personas con baja visión, pantallas con traducción simultánea por reconocimiento de voz para personas sordas, teclados y ratones virtuales para personas con movilidad reducida o multitud de programas adaptados de acceso al currículo para personas que necesitan de adaptaciones curriculares.
